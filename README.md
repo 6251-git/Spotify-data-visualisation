@@ -4,3 +4,10 @@
 A Blob Chart showing the longest tracks in the data set
 <img width="1557" height="728" alt="Screenshot 2026-02-10 155245" src="https://github.com/user-attachments/assets/b38095ad-8a04-404c-b3a6-125e0dfe7108" />
 simple bar chart displaying the most popular artists in the data set
+***********
+Findings
+* The longest track is “Late Night Tales: Bonobo”
+* The most popular artist is Drake
+
+Disclaimer: the data set is likely outdated and may not represent current Spotify data
+***********
